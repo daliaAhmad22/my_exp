@@ -1,0 +1,39 @@
+ .str2{
+    margin-left:25%; 
+    margin-right:25%;
+}
+ .str3{
+    background-color:red;
+}
+.str4{
+    background-color:white;
+}
+
+.head_color{
+    color:white;
+}
+
+.login{
+	width: 200px;
+	margin: 100px auto;
+}
+.login input{
+	margin-bottom: 10px;
+}
+.login .form-control{
+	background-color: #e5e5e569;
+	width: 266px;
+    height: 32px;
+    border-radius: 19px
+}
+.login .btn_str{
+	width: 128px;
+    background-color: #3f51b5c9;
+    color: white;
+    border-radius: 19px;
+}
+
+.head_text{
+	text-align: center;
+	font-size: 31px;
+}
